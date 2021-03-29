@@ -9,12 +9,14 @@
 
 ## Technologies
 * Java
+* Maven
+* JUnit5
 * Gson
 
 
 ## Future Technologies
-* Junit5
-* PL/SQL
+* PostgreSQL database
+* Hibernate
 
 
 ## Status
